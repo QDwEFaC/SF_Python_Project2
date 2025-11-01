@@ -44,3 +44,6 @@ GitHub: @QDwEFaC
 
 📄 Лицензия<br>
 Этот проект создан в образовательных целях в рамках обучения в SkillFactory.
+
+## Ссылка на входные наборы данных
+https://drive.google.com/drive/folders/1hfPLwDVbxWrpuGjHJoorppR8GUJMOPL-?usp=sharing
