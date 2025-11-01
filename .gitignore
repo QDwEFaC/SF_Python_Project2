@@ -1,0 +1,24 @@
+# Создаем .gitignore с правильными настройками
+@"
+# Большие данные
+data/
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# Python
+*.pyc
+*.pyo
+.env
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Системные
+.DS_Store
+Thumbs.db
+"@ | Out-File -FilePath .gitignore -Encoding UTF8
